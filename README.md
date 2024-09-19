@@ -2,6 +2,8 @@
 
 Tokopaedi is a monolithic web application built with Next.js, designed to mimic the functionality of Tokopedia. The application offers a seamless shopping experience with various features.
 
+![Demo Preview](/assets/preview.gif)
+
 ## Demo
 
 [Demo Link](https://tokopaedi.ainurrofiq.site/)
